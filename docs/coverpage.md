@@ -1,3 +1,3 @@
-# Matemáticas Imaginarias
+# Informática Real
 
-> Matemáticas universitarias explicadas correctamente
+> La informática explicada a profundidad
