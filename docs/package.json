@@ -1,8 +1,8 @@
 {
-  "name": "Matemáticas Imaginarias",
+  "name": "Informática Real",
   "version": "1.0.0",
   "description":
-    "Página web para aprender matemáticas de nivel universitario.",
+    "Página web para aprender informática a profundidad.",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
