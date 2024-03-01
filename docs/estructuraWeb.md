@@ -12,9 +12,7 @@ Aquí podrás leer la presentación de la web, además de este mismo artículo q
 
 ### Contenidos
 
-Aquí podrás acceder al contenido creado sobre distintas áreas de las matemáticas.
-Dicho contenido se encuentra ordenado numéricamente. Para estudiantes primerizos, recomiendo empezar por la parte 0, e ir progresando
-de parte en parte. Si solo necesitas consultar un área específica, siéntete libre de acceder en cualquier orden.
+[Sección en construcción]
 
 ### Acerca de
 
