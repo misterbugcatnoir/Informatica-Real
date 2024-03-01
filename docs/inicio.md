@@ -1,8 +1,8 @@
 # Introducción
 
-¡Hola! Bienvenido a **Matemáticas Imaginarias**.
+¡Hola! Bienvenido a **Informática Real**.
 
-A lo largo de esta página web, encontrarás una gran cantidad de recursos con los que podrás aprender matemáticas de **nivel universitario**. A diferencia de otros sitios educativos, mi intención es explicar las matemáticas como pocos profesores me las explicaron... **Con buenos y limpios apuntes**.
+~A lo largo de esta página web, encontrarás una gran cantidad de recursos con los que podrás aprender matemáticas de **nivel universitario**. A diferencia de otros sitios educativos, mi intención es explicar las matemáticas como pocos profesores me las explicaron... **Con buenos y limpios apuntes**.~
 
 ## Sobre mí
 
@@ -10,10 +10,10 @@ Podéis llamarme *Mister Bug*. Soy un entusiasta de las **matemáticas** y la **
 
 ## Mi intención
 
-Me gustaría que esta página sirviera de ayuda para todos aquellos estudiantes universitarios de matemáticas, tanto **recien llegados**, como ya **experimentados**, que han visto entorpecido su aprendizaje por aspectos tales como:
+~Me gustaría que esta página sirviera de ayuda para todos aquellos estudiantes universitarios de matemáticas, tanto **recien llegados**, como ya **experimentados**, que han visto entorpecido su aprendizaje por aspectos tales como:~
 
-- Profesores sin mucha capacidad explicativa
-- Apuntes pobres, o en ocasiones inexistentes
+- ~Profesores sin mucha capacidad explicativa~
+- ~Apuntes pobres, o en ocasiones inexistentes~
 
 ## Aprendizaje
 
